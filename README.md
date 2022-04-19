@@ -24,3 +24,9 @@ Using the command <b>json-server --watch db.json</b>
 ![Captura2](https://user-images.githubusercontent.com/51963634/164029924-09dacd1b-6bab-42e5-b877-0d170210fcad.PNG)
 ![Captura3](https://user-images.githubusercontent.com/51963634/164029958-0893907a-7d97-40fa-8854-341be2c1fb49.PNG)
 ![Captura4](https://user-images.githubusercontent.com/51963634/164029974-400d93a9-09d9-4895-9584-7bc886409827.PNG)
+
+
+## 
+<b>Instructor:</b> Fernando Herrera
+<br/>
+<b>Udemy:</b> Angular course
