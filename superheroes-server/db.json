@@ -1,0 +1,222 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "Sibyl Pérez",
+      "email": "lady.sweet@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne",
+      "whoIs": "Batman is a superhero published by DC Comics. Operating in Gotham City, he serves as its protector, using the symbol of a bat to strike fear into the hearts of criminals. Unlike other superheroes, Batman is often depicted to lack 'superpowers', instead using lifelong training and equipment to fight crime. His secret identity is Bruce Wayne, a rich playboy and philanthropist who swore to fight crime after witnessing his parents' brutal murder",
+      "history": "Batman debuted in May 1939 in Detective Comics no. 27 and has since appeared in numerous comic books, comic strips, and graphic novels; on television in a camp live-action series and a critically acclaimed animated program; in electronic games; and in brooding, atmospheric films. The origin of Batman, which was not revealed to readers until the character’s seventh comic book appearance, is now a familiar tale"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics volumen #1",
+      "characters": "Kal-El",
+      "whoIs": "Superman is a superhero published by DC Comics since 1938. An alien named Kal-El from the destroyed planet Krypton. He was sent to Earth and raised as Clark Kent by human foster parents, Martha and Jonathan Kent. As an adult, Superman became the protector of Earth, working at the Daily Planet as Clark Kent alongside his partner and wife Lois Lane",
+      "history": "Superman, American comic strip superhero created for DC Comics by writer Jerry Siegel and artist Joe Shuster. Superman first appeared in Action Comics, no. 1 (June 1938). Superman’s origin is perhaps one of the best-known stories in comic book history. Indeed, in All Star Superman no. 1 (2005), writer Grant Morrison and artist Frank Quitely expertly cover the salient points with just four panels and eight words."
+    },
+    {
+      "id": "dc-wonder",
+      "superhero": "Wonder Woman",
+      "publisher": "DC Comics",
+      "alter_ego": "Princess Diana",
+      "first_appearance": "All Star Comics volumen #8",
+      "characters": "Princess Diana",
+      "whoIs": "Wonder Woman tells the tale of Princess Diana of Themyscira. Her original origin story says she was formed out of clay by her mother, Hippolyta, and had life bestowed upon her by the Greek gods. As Themyscira's emissary to Man's World, Diana has made it her duty to lead by example, even if the differences between her birthplace and new home sometimes present hurdles for her to jump. She has come to represent the possibility and potential of life without war, hate or violence, and she is a beacon of hope to all who find themselves in need.",
+      "history": "After making her debut in All Star Comics No. 8, Wonder Woman graced the cover of Sensation Comics No. 1 in 1942. Her original story sees her leave behind her home on Paradise Island after an American pilot named Steve Trevor crash lands on Themyscira and the islanders compete to determine who will travel to the “Man’s World” to return him."
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Flash",
+      "publisher": "DC Comics",
+      "alter_ego": "Jay Garrick",
+      "first_appearance": "Flash Comics #1",
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "whoIs": "Jay Garrick was a popular character in the 1940s, was a college student in 1938 who accidentally inhaled heavy water vapors after taking a smoke break inside his laboratory where he had been working.[6] As a result, he found that he could run at superhuman speed and had similarly fast reflexes. After a brief career as a college football star, he donned a red shirt with a lightning bolt and a stylized metal helmet with wings",
+      "history": "The Flash first appeared in the Golden Age Flash Comics #1 (January 1940), from All-American Publications, one of three companies that would eventually merge to form DC Comics. Created by writer Gardner Fox and artist Harry Lampert, this Flash was Jay Garrick, a college student who gained his speed through the inhalation of hard water vapors. When re-introduced in the 1960s Garrick's origin was modified slightly, gaining his powers through exposure to heavy water."
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen",
+      "whoIs": "In the first version during the Golden Age, Oliver Queen was a famous archaeologist specializing in native American culture. Roy Harper was a young boy whose parents had been killed in a plane crash that stranded him on the isolated Lost Mesa; he had learned to hunt to survive. Billionaire Oliver Queen uses both his wealth and his unmatched archery skills as the Justice League's battling bowman",
+      "history": "Green Arrow, American comic strip superhero created for DC Comics by writer Mort Weisinger and artist George Papp. Nicknamed the “Emerald Archer” for his Robin Hood-like appearance and manner, the character first appeared in More Fun Comics no. 73 (November 1941). Green Arrow was an attempt to replicate one of DC’s biggest successes—Batman. After being shipwrecked on a desert island, wealthy playboy Oliver Queen makes himself a bow and arrows and trains himself to become an expert with them."
+    },
+    {
+      "id": "dc-green",
+      "superhero": "Green Lantern",
+      "publisher": "DC Comics",
+      "alter_ego": "Alan Scott",
+      "first_appearance": "All-American #16",
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart",
+      "whoIs": "In the first version during the Silver Age, in Showcase #22, the Green Lantern was Hal Jordan, a test pilot who was given a power ring by a dying alien, Abin Sur, and who became a member of the Green Lantern Corps, an interstellar organization of police overseen by the Guardians of the Universe. Alan Scott, the first hero to be known as the Green Lantern, discovers what appears to be a green railroad lantern after a train accident. The lantern, actually a piece of a mystical orb known as the Starheart, instructs Scott to make a ring out of a fragment of its material",
+      "history": "The first Green Lantern character, Alan Scott, was created in 1940 by Martin Nodell with scripting or co-scripting of the first stories by Bill Finger during the Golden Age of Comic Books and usually fought common criminals in Capitol City (and later, Gotham City) with the aid of his magic ring."
+    },
+    {
+      "id": "dc-martian",
+      "superhero": "Martian Manhunter",
+      "publisher": "DC Comics",
+      "alter_ego": "J\"onn J\"onzz",
+      "first_appearance": "Detective Comics #225",
+      "characters": "Martian Manhunter",
+      "whoIs": "J'onn J'onzz is the Martian Manhunter, a law enforcement officer from Mars who became a police detective and superhero after becoming marooned on Earth. He is a founding member of the Justice League.  He has very restricted emotional expressions. J'onn typically acts as the voice of reason in the Justice League and is one of the wisest leaders within the hero community, along with Batman and Superman.",
+      "history": "The Martian Manhunter (J'onn J'onzz) is a superhero in American comic books published by DC Comics. Created by writer Joseph Samachson and designed by artist Joe Certa, the character first appeared in the story 'The Manhunter from Mars' in Detective Comics #225 (November 1955)."
+    },
+    {
+      "id": "dc-robin",
+      "superhero": "Robin/Nightwing",
+      "publisher": "DC Comics",
+      "alter_ego": "Dick Grayson",
+      "first_appearance": "Detective Comics #38",
+      "characters": "Dick Grayson",
+      "whoIs": "When his circus acrobat family was brutally murdered, Dick Grayson was taken in by billionaire and bat-friendly super hero Bruce Wayne. Bruce shared his secret life as Batman with the young boy and eventually molded him into Robin—the Dark Knight’s partner in Gotham. But as Dick grew older, playing second fiddle to the sternest hero in the Justice League began to wear on him, and eventually he struck out on his own, staying true to what he learned as Robin while coming into his own as a respected member of the superhero pantheon",
+      "history": "Detective Comics #38 saw the publication of 'Robin, the Boy Wonder'. The story sees the debut of Dick Grayson as his sidekick 'Robin, The Boy Wonder' to help Batman capture the murderer of the his parents. The story was presumably written by Bill Finger and drawn by Jerry Robinson, though Bob Kane was credited"
+    },
+    {
+      "id": "dc-blue",
+      "superhero": "Blue Beetle",
+      "publisher": "DC Comics",
+      "alter_ego": "Dan Garret",
+      "first_appearance": "Mystery Men #1",
+      "characters": "Dan Garret, Ted Kord, Jaime Reyes",
+      "whoIs": "The original Beetle was an archaeologist named Dan Garrett, who discovered an ancient Scarab in an old Egyptian tomb that gave him superpowers which he used to fight crime. He was succeeded by the brilliant Ted Kord, who had no powers to speak of, but carried on the Blue Beetle legacy with just his wits and his fists, along with a whole lot of gadgets and a sharp sense of humor. The most recent Blue Beetle is Jaime Reyes, a teenager from El Paso, Texas who bonded with Dan Garrett's Scarab. The artifact gave him incredible alien armor which he used to defend his hometown from all manner of metahuman criminals",
+      "history": "The original Blue Beetle was created by Fox Comics and later owned by Charlton Comics. The first Beetle was Dan Garret (later spelled Dan Garrett), who initially gained super powers from a special vitamin, which was later changed to gaining powers from a 'sacred scarab'."
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Black Canary",
+      "publisher": "DC Comics",
+      "alter_ego": "Dinah Drake",
+      "first_appearance": "Flash Comics volumen #86",
+      "characters": "Dinah Drake, Dinah Lance",
+      "whoIs": "Fearless street fighter and frequent partner to Green Arrow, Dinah Lance tackles injustice with her unmatched martial arts skills and her ear-piercing 'Canary Cry.' Dinah Laurel Lance was born into a family of crime fighters. Her father Larry Lance, was a police officer, while her mother (also named Dinah) was the original Black Canary.",
+      "history": "The Black Canary is the name of two superheroines appearing in American comic books published by DC Comics: Dinah Drake and her daughter Dinah Laurel Lance. The original version was created by the writer-artist team of Robert Kanigher and Carmine Infantino, the character debuted in Flash Comics #86 (August 1947)."
+    },
+    {
+      "id": "marvel-spider",
+      "superhero": "Spider Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Peter Parker",
+      "first_appearance": "Amazing Fantasy #15",
+      "characters": "Peter Parker",
+      "whoIs": "Spider-Man is the alias of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and Mary Parker died in a plane crash. Lee and Ditko had the character deal with the struggles of adolescence and financial issues and gave him many supporting characters, such as Flash Thompson, J. Jonah Jameson and Harry Osborn, romantic interests Gwen Stacy, Mary Jane Watson and the Black Cat, and foes such as Doctor Octopus, the Green Goblin and Venom",
+      "history": "In Spider-Man's first story, in Marvel Comics' Amazing Fantasy, no. 15 (1962), American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, speed, and agility along with the ability to cling to walls"
+    },
+    {
+      "id": "marvel-captain",
+      "superhero": "Captain America",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Steve Rogers",
+      "first_appearance": "Captain America Comics #1",
+      "characters": "Steve Rogers",
+      "whoIs": "Captain America is the alter ego of Steve Rogers, a frail young artist enhanced to the peak of human perfection by an experimental 'super-soldier serum' after joining the military to aid the United States government's efforts in World War II. Near the end of the war, he was trapped in ice and survived in suspended animation until he was revived in modern times. Although Captain America often struggles to maintain his ideals as a man out of his time, he remains a highly respected figure both with the American public and in the superhero community, which includes becoming the long-time leader of the Avengers",
+      "history": "Captain America is a superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1 (cover dated March 1941) from Timely Comics, a predecessor of Marvel Comics"
+    },
+    {
+      "id": "marvel-iron",
+      "superhero": "Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Tony Stark",
+      "first_appearance": "Tales of Suspense #39",
+      "characters": "Tony Stark",
+      "whoIs": "A wealthy American business magnate, playboy, philanthropist, inventor and ingenious scientist, Anthony Edward Stark suffers a severe chest injury during a kidnapping. When his captors attempt to force him to build a weapon of mass destruction, he instead creates a mechanized suit of armor to save his life and escape captivity. Later, Stark develops his suit, adding weapons and other technological devices he designed through his company, Stark Industries. He uses the suit and successive versions to protect the world as Iron Man. Although at first concealing his true identity, Stark eventually publicly reveals himself to be Iron Man.",
+      "history": "Iron Man first appeared in 1963 in Tales of Suspense no. 39. His creation is officially credited to four people: writer and editor Stan Lee, who plotted the first story; his brother Larry Lieber, who scripted it; artist Don Heck, who drew it; and Jack Kirby, who designed Iron Man's original armoured battle suit."
+    },
+    {
+      "id": "marvel-thor",
+      "superhero": "Thor",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Thor Odin-son",
+      "first_appearance": "Journey into Myster #83",
+      "characters": "Thor Odin-son",
+      "whoIs": "Thor is the 'God of Thunder', a member of the race known as the Asgardians, a group of humanoid beings from the pocket dimension of Asgard, the Realm Eternal. Thor is the son of Odin, the All-Father and king of Asgard. He was worshiped by the humans known as Vikings and became part of Norse Mythology. Armed with his enchanted Uru hammer Mjolnir, which helps him to channel his godly energies, he became the mightiest warrior in the Ten Realms. When his irresponsible and impetuous behavior became too much, Odin sent him to Midgard (more commonly known as Earth) as a disabled mortal medical student named Donald Blake, stripped of his memory.",
+      "history": "A founding member of the superhero team the Avengers, Thor has a host of supporting characters and enemies. Debuting in the Silver Age of Comic Books, the character first appeared in Journey into Mystery #83 (August 1962) and was created by artist Jack Kirby, writer Stan Lee, and scripter Larry Lieber."
+    },
+    {
+      "id": "marvel-hulk",
+      "superhero": "Hulk",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Bruce Banner",
+      "first_appearance": "The Incredible Hulk #1",
+      "characters": "Bruce Banner",
+      "whoIs": "Dr. Bruce Banner, Ph.D. a.k.a. the Hulk is an American theoretical physicist, famed for his work into the studies of nuclear physics and gamma radiation. He was recruited by General Thaddeus 'Thunderbolt' Ross and the US Army to develop the first Gamma Bomb. During its first live test he was bombarded with a massive dose of gamma rays while saving Rick Jones, a kid who was out on the test site. He was mutated into a green behemoth, the living personification of rage, fueled by pure physical strength and would come to be known as nearly mindless 'Incredible Hulk'. Fearful of the damage that Hulk could inflict, as well as fleeing from the military, he went on the run. He later found a home among the Avengers, 'Earth's Mightiest Heroes', for a short time",
+      "history": "The Hulk is a fictional superhero appearing in publications by the American publisher Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962)"
+    },
+    {
+      "id": "marvel-wolverine",
+      "superhero": "Wolverine",
+      "publisher": "Marvel Comics",
+      "alter_ego": "James Howlett",
+      "first_appearance": "The Incredible Hulk #180",
+      "characters": "James Howlett",
+      "whoIs": "Cursed with a berserker fury, the violent mutant known as Wolverine has a reputation both an outstanding superhero and as a lethal killer. Born as James Howlett to a wealthy Canadian family at the end of the 19th century, he was forced to abandon his family after the tragic manifestation of his bestial abilities of accelerated healing factor, keenly enhanced senses and bone claws in each hand. Adopting the name Logan, he wandered the world, living a long life filled with blood, war and betrayal",
+      "history": "Wolverine was created by Len Wein, Roy Thomas, John Romita and Herb Trimpe, first cameo appearance in Incredible Hulk #180 (Oct 1974) and first full appearence in Incredible Hulk #181 (Nov 1974). Since then, Wolverine has been one of the most well-known and popular Marvel Comics characters rivalling Spider-Man and Hulk, throughout his entire publication history and even in other media."
+    },
+    {
+      "id": "marvel-daredevil",
+      "superhero": "Daredevil",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Matthew Michael Murdock",
+      "first_appearance": "Daredevil #1",
+      "characters": "Matthew Michael Murdock",
+      "whoIs": "Bookish Matt Murdock pushes a man clear of an oncoming truck but is blinded when he lands in an unknown radioactive substance. Matt is the son of boxer “Battling” Jack Murdock, who is attempting to rebuild his career with the help of a crooked promoter known as the Fixer. While attending law school, Matt engages in an intense physical training regimen, aided by heightened senses that were triggered by the accident that took his sight. When his father is killed after refusing to throw a fight, Matt dons a costume and becomes Daredevil, vowing to bring his father’s killers to justice",
+      "history": "Daredevil, American comic strip superhero created for Marvel Comics by writer Stan Lee and artist Bill Everett. The character first appeared in Daredevil no. 1 (April 1964)."
+    },
+    {
+      "id": "marvel-hawkeye",
+      "superhero": "Hawkeye",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Clinton Francis Barton",
+      "first_appearance": "Tales of Suspense #57",
+      "characters": "Clinton Francis Barton",
+      "whoIs": "Clinton 'Clint' Barton aka Hawkeye is an American skilled marksman, archer, and former circus performer and minor supervillain turned member of the Avengers, 'Earth's Mightiest Heroes'. As a member of the Avengers, he always had friction with the team, but always returned to fight any threat. Barton was raised in the circus, trained by criminals, and grew from a troubled youth into one of Earth's greatest heroes. Known for his use of a bow and arrow as his primary weapon, his skill is so great that it appears like he never misses. He has worked with Black Widow, whom he developed a strong friendship with",
+      "history": "As Hawkeye: Tales of Suspense #57 (September 1964) As Goliath: Avengers #63 (April 1969) As Golden Archer: Captain America #179 (November 1974) As Ronin: The New Avengers #27 (April 2007)"
+    },
+    {
+      "id": "marvel-cyclops",
+      "superhero": "Cyclops",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Scott Summers",
+      "first_appearance": "X-Men Comics volumen #1",
+      "characters": "Scott Summers",
+      "whoIs": "Scott Summers is a mutant with the ability to fire destructive optic beams. As the first X-Man Cyclops, he has ascended from super-hero field leader to a mutant revolutionary icon. The firstborn son of Major Chris Summers, Scott and his brother Alex witnessed the apparent murder of their parents by the Shi'ar Emperor D'ken. As an introspective orphan and in the clutches of the nefarious Mister Sinister, his mutant abilities first manifested. After escaping Sinister's orphanage, Summers was rescued by Professor Xavier, a fellow mutant who ran a school aimed at helping mutants to control their uncanny abilities",
+      "history": "Cyclops (Scott Summers) is a fictional character appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. The X-Men #1 (September 1963). Stan Lee (writer) Jack Kirby (artist/co-plotter)"
+    },
+    {
+      "id": "marvel-silver",
+      "superhero": "Black Widow",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Natalia Alianovna Romanova",
+      "first_appearance": "Tales of Suspense #52",
+      "characters": "Natalia Romanova, Ava Orlova, Monica Chang, Yelena Belova",
+      "whoIs": "Natalia Alianovna Romanova (English: Natasha Romanoff) aka Black Widow (Russian: Черная вдова) was a former Russian KGB agent. She was trained by the 'Red Room' as part of the Black Widow Ops Program to be the ultimate 'Super-Spy'. She defected to the United States of America from the Soviet Union to join S.H.I.E.L.D. Later Black Widow would then become a member of the Avengers and has been on the team on multiple occasions. She is a woman with a mysterious past which few know about.",
+      "history": "Black Widow was created by Stan Lee, Don Rico, and Don Heck in 1964, debuting in Tales of Suspense #52 as a to-be-recurring Russian spy who served primarily as an antagonist for Iron Man. In Natasha's earliest iterations, her persona was similar to the one that got introduced to the world in 2010's Iron Man 2"
+    },
+    {
+      "superhero": "Aquaman",
+      "alter_ego": "Arthur Curry",
+      "characters": "Arthur Curry",
+      "first_appearance": "More Fun Comics # 73",
+      "publisher": "DC Comics",
+      "whoIs": " Arthur Curry is Aquaman, an adventurer who is half-human and half-Atlantean. This gives him a variety of powers including superhuman strength, telepathic control over marine life, and the ability to survive both in water and on land. He belongs to the royal family of Atlantis, and normally acts as their king. His romantic partner is the princess Mera of Xebel. He is a founding member of two superhero teams, the world-famous Justice League and the clandestine Others.",
+      "history": "Aquaman (Arthur Curry) is a superhero appearing in American comic books published by DC Comics. Created by Paul Norris and Mort Weisinger, the character debuted in More Fun Comics #73 (November 1941) Initially a backup feature in DC's anthology titles, Aquaman later starred in several volumes of a solo comic book series. During the late 1950s and 1960s superhero-revival period known as the Silver Age, he was a founding member of the Justice League. In the 1990s Modern Age, writers interpreted Aquaman's character more seriously, with storylines depicting the weight of his role as king of Atlantis",
+      "alt_img": "https://wallpapercave.com/wp/wp6829734.jpg",
+      "id": "kxT8HQ4"
+    }
+  ]
+}
