@@ -1,0 +1,83 @@
+<h1>
+    {{ (heroe.id ? 'Edit' : 'Add new')}} 
+    Hero 
+    <small>{{heroe.superhero}}</small>
+</h1>
+<div fxLayout="row">
+    <mat-icon>reply</mat-icon><h4><small (click)="return()" className>return</small></h4>
+</div>
+
+<div fxLayout="row" fxLayoutGap="40px" fxLayout.xs="column">
+    <div fxFlex="50" fxLayout="column">
+        <div fxLayout="row" fxLayout.xs="column" fxLayoutGap="20px">
+            <mat-form-field fxFlex="100" fxFlex.sm="50" fxLayout.xs="column">
+                <mat-label>
+                    Superhero
+                </mat-label>
+                <input matInput type="text" [(ngModel)]="heroe.superhero" required>
+            </mat-form-field>
+            <mat-form-field fxFlex="100" fxFlex.sm="50">
+                <mat-label>
+                    Alterego's real name
+                </mat-label>
+                <input matInput type="text" [(ngModel)]="heroe.alter_ego" required>
+            </mat-form-field>
+        </div>
+        <mat-form-field>
+            <mat-label>
+                First appearance
+            </mat-label>
+            <input matInput type="text" [(ngModel)]="heroe.first_appearance" required>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>
+                Characters
+            </mat-label>
+            <input matInput type="text" [(ngModel)]="heroe.characters" required>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>
+                Creator
+            </mat-label>
+            <mat-select [(ngModel)]="heroe.publisher" required>
+                <mat-option *ngFor="let item of publisher" [value]="item.id">
+                    {{item.desc}}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>
+                About Superhero
+            </mat-label>
+            <textarea matInput [(ngModel)]="heroe.whoIs" required></textarea>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>
+                Comic history
+            </mat-label>
+            <textarea matInput [(ngModel)]="heroe.history" required></textarea>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>
+                Picture
+            </mat-label>
+            <input matInput type="url" [(ngModel)]="heroe.alt_img" required>
+        </mat-form-field>
+        <br>
+        <div fxLayout>
+            <button mat-raised-button color="primary" (click)="save()">
+                <mat-icon>edit</mat-icon>
+                {{ (heroe.id ? 'Save' : 'Create')}} 
+            </button>
+            <span class="spaces"></span>
+            <button *ngIf="heroe.id" mat-raised-button color="warn" (click)="delete()">
+                <mat-icon>delete_forever</mat-icon>
+                Delete
+            </button>
+        </div>
+    </div>
+    <div fxFlex="50">
+        <img [src]="heroe | imagen">
+    </div>
+
+</div>
